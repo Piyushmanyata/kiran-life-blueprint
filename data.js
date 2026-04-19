@@ -1,77 +1,77 @@
-// ========== KIRAN SODHANI — COMPREHENSIVE LIFE BLUEPRINT DATA ==========
+// ========== KIRAN SODHANI — SIMPLE LIFE BLUEPRINT DATA ==========
 
 export const birthData = {
   name: "Kiran Sodhani",
   ascendant: "Taurus",
   moonSign: "Taurus",
-  disposition: "Grounded, Methodical, Aesthetic",
+  disposition: "Down-to-earth, Hard-working, Loves Beauty",
 };
 
 // ===== CORE PERSONALITY TRAITS (0-100) =====
 export const personalityTraits = [
-  { trait: "Pragmatism", score: 96, desc: "Extreme real-world focus. Abstract ideas hold no value unless they produce measurable, concrete outcomes that can be seen and felt." },
-  { trait: "Resilience", score: 94, desc: "Forged through early isolation into virtually indestructible psychological armor. Bounces back from severe setbacks with ease." },
-  { trait: "Work Ethic", score: 97, desc: "Unyielding determination to work tirelessly. Delays immediate gratification for the sake of long-term security and building a lasting legacy." },
-  { trait: "Charisma", score: 91, desc: "A magnetic, high-functioning social persona masking a deeply introverted core. Naturally draws people in without seeming forceful." },
-  { trait: "Emotional Depth", score: 89, desc: "Processes the world through emotional intelligence. Deeply attuned to the unspoken feelings, hidden motives, and subtle cues of others." },
-  { trait: "Discipline", score: 95, desc: "Instilled from early maternal influence — methodical precision in all execution. Lives by structured routines and clear organizational principles." },
-  { trait: "Ambition", score: 93, desc: "Fierce, almost primal drive to amass high-value assets and ensure absolute financial security for the family at all costs." },
-  { trait: "Strategic Mind", score: 92, desc: "Watches silently, gathers crucial data, and analyzes all variables before making any calculated move. Never acts purely on impulse." },
-  { trait: "Independence", score: 90, desc: "Fiercely territorial over personal space. Does not require external validation, functioning as a complete powerhouse independently." },
-  { trait: "Aesthetic Sense", score: 88, desc: "Strong affinity for luxury, classical beauty, and creating perfectly curated, tranquil personal sanctuaries." },
+  { trait: "Practical & Real", score: 96, desc: "You care about things you can see and touch. Ideas are only good to you if they actually work in the real world and bring real results." },
+  { trait: "Toughness", score: 94, desc: "You have an amazing ability to bounce back. When things get hard, you don't break. You just get stronger." },
+  { trait: "Hard Worker", score: 97, desc: "You work very hard and don't mind waiting for your reward. You want to build a safe, secure life for your family." },
+  { trait: "Charm", score: 91, desc: "People naturally like you. You can easily make friends and talk to anyone, even though you secretly like being alone." },
+  { trait: "Understanding Feelings", score: 89, desc: "You are very good at knowing how other people feel, even when they don't say anything." },
+  { trait: "Discipline", score: 95, desc: "You like rules, schedules, and getting things done right. This comes from how you were raised." },
+  { trait: "Big Dreams", score: 93, desc: "You have a huge drive to make money, own nice things, and make sure you and your family are totally safe." },
+  { trait: "Smart Thinker", score: 92, desc: "You look, listen, and think carefully before you do anything. You never just jump in without a plan." },
+  { trait: "Independent", score: 90, desc: "You don't need people to tell you that you are doing a good job. You are strong enough to stand on your own." },
+  { trait: "Loves Beauty", score: 88, desc: "You really enjoy nice things, pretty places, and having a peaceful, beautiful home." },
 ];
 
 // ===== LIFE AREAS STRENGTH (0-100) =====
 export const lifeAreas = [
-  { area: "Career & Authority", score: 94, icon: "💼", color: "#b58d55", desc: "Slow, methodical ascensions culminating in positions of massive authority. Respected as an unyielding leader who delivers quality." },
-  { area: "Wealth & Finances", score: 92, icon: "💰", color: "#d4a339", desc: "Inherently designed for massive wealth accumulation through stable, tangible assets rather than speculative risks." },
-  { area: "Relationships & Love", score: 75, icon: "❤️", color: "#c85a73", desc: "Deep sensuality and romance, but stubborn temperament and professional spillover creates recurring friction." },
-  { area: "Health & Vitality", score: 82, icon: "⚕️", color: "#248b7b", desc: "Strong foundational health with specific stress-linked vulnerabilities (gastric, nervous system) requiring strict management." },
-  { area: "Communication", score: 90, icon: "💬", color: "#3a7ab5", desc: "Greatest strategic tool — mesmerizing charisma paired with razor-sharp directness depending on the audience." },
-  { area: "Domestic Sphere", score: 78, icon: "🏠", color: "#248b7b", desc: "Architecturally destined for significant property ownership, but true internal peace at home remains a constant balancing act." },
-  { area: "Social Influence", score: 88, icon: "👥", color: "#c76743", desc: "Naturally operates within elite, high-status circles. Generous in dealings but must watch for secret jealous enemies." },
-  { area: "Parenting", score: 68, icon: "👶", color: "#7a63a5", desc: "Most intensely affected area — significant delays and challenges that ultimately drive profound spiritual and personal growth." },
+  { area: "Career & Work", score: 94, icon: "💼", color: "#b58d55", desc: "You will slowly but surely become a boss or a leader. People respect you because you do great work." },
+  { area: "Money & Wealth", score: 92, icon: "💰", color: "#d4a339", desc: "You are naturally built to make a lot of money by owning real things, like houses and businesses." },
+  { area: "Love & Family", score: 75, icon: "❤️", color: "#c85a73", desc: "You love deeply, but you can be stubborn. Bringing work stress home can cause fights." },
+  { area: "Health & Body", score: 82, icon: "⚕️", color: "#248b7b", desc: "You have a strong body, but when you worry too much, it hurts your stomach and makes you tired." },
+  { area: "Talking to People", score: 90, icon: "💬", color: "#3a7ab5", desc: "Your voice is your best tool. You can be very sweet to get what you want, or very blunt if you are mad." },
+  { area: "Home & Houses", score: 78, icon: "🏠", color: "#248b7b", desc: "You will own nice houses and land, but finding real peace inside your home can be tricky sometimes." },
+  { area: "Friends & Network", score: 88, icon: "👥", color: "#c76743", desc: "You naturally hang out with important people. You are kind, but watch out for fake friends who might be jealous." },
+  { area: "Having Children", score: 68, icon: "👶", color: "#7a63a5", desc: "Raising kids will be hard and test your patience, but it will teach you how to let go and grow." },
 ];
 
 // ===== WHAT MAKES THIS PERSON SPECIAL =====
 export const superPowers = [
-  { title: "The Indestructible Armor", icon: "🛡️", desc: "Early emotional isolation forged extraordinary resilience. This power is entirely self-generated—no crowd is needed for validation. When attacked professionally, they outmaneuver opponents effortlessly, having already survived their own internal crucibles. They cannot be broken by typical stress." },
-  { title: "The Magnetic Communicator", icon: "🧲", desc: "Possesses a mesmerizing, charismatic speaking style that naturally draws people in. They can negotiate highly complex deals and achieve desired outcomes without ever needing to use force. Their voice and persuasive tone are their most potent weapons in business." },
-  { title: "The Wealth Architect", icon: "💎", desc: "Driven by a fierce, almost primal urge to amass high-value tangible assets. Capable of creating multiple simultaneous income streams, powered entirely by their sharp intellect and the ability to articulate and command premium value for their work." },
-  { title: "The Strategic Observer", icon: "👁️", desc: "Fiercely territorial and acutely observant. They possess the rare ability to watch silently before making a highly calculated move. Extreme agility in thought paired with fierce independence creates a natural, unbeatable strategist." },
-  { title: "The Stabilizing Force", icon: "🏛️", desc: "Architecturally designed to act as a stabilizing pillar for everyone around them. They seamlessly carry the immense weight of family duties and professional networks, while flawlessly managing their own intense internal ambitions." },
-  { title: "The Dual Persona", icon: "🎭", desc: "Masterfully manages a social interface of warmth, humor, and approachability, effectively masking an intensely private core. They maintain a vault of personal secrets and internal conflicts, processing emotional pain entirely independently." },
+  { title: "Unbreakable Shield", icon: "🛡️", desc: "Because you learned to be strong on your own, normal stress doesn't bother you. You are like a superhero with a strong shield against hard times." },
+  { title: "Sweet Talker", icon: "🧲", desc: "You can talk in a way that makes everyone want to listen to you and agree with you. You can win arguments with a smile instead of shouting." },
+  { title: "Money Maker", icon: "💎", desc: "You have a special talent for knowing how to make money. You can find many different ways to earn, just by using your brain and talking to people." },
+  { title: "Quiet Watcher", icon: "👁️", desc: "While others are rushing, you sit back and watch. You figure out the smartest move to make, which makes you win in the end." },
+  { title: "The Strong Pillar", icon: "🏛️", desc: "You are the person everyone else leans on when things go wrong. You easily carry the weight of your family and your job." },
+  { title: "Two Sides", icon: "🎭", desc: "You can be the life of the party and super friendly, but deep down, you keep your true feelings a secret from everyone." },
 ];
 
 // ===== CAREER APTITUDE SCORES =====
 export const careerAptitude = [
-  { field: "Real Estate & Land", score: 96, color: "#b58d55" },
-  { field: "Heavy Industry & Manufacturing", score: 88, color: "#7d7568" },
-  { field: "Food & Hospitality", score: 85, color: "#c76743" },
-  { field: "Consulting & Counseling", score: 93, color: "#248b7b" },
-  { field: "Media & Journalism", score: 90, color: "#3a7ab5" },
-  { field: "Law & Diplomacy", score: 91, color: "#7a63a5" },
-  { field: "Education & Mentoring", score: 87, color: "#c85a73" },
-  { field: "Agriculture & Farming", score: 82, color: "#d37a54" },
+  { field: "Houses & Land (Real Estate)", score: 96, color: "#b58d55" },
+  { field: "Factories & Building", score: 88, color: "#7d7568" },
+  { field: "Food & Hotels", score: 85, color: "#c76743" },
+  { field: "Giving Advice (Consulting)", score: 93, color: "#248b7b" },
+  { field: "News & TV (Media)", score: 90, color: "#3a7ab5" },
+  { field: "Law & Rules", score: 91, color: "#7a63a5" },
+  { field: "Teaching", score: 87, color: "#c85a73" },
+  { field: "Farming & Nature", score: 82, color: "#d37a54" },
 ];
 
 // ===== HEALTH VULNERABILITY DATA =====
 export const healthData = [
-  { area: "Nervous System & Skin", risk: 78, trigger: "Sleep deprivation combined with prolonged emotional stress and overworking directly leads to rapid-onset skin conditions and profound nervous exhaustion.", advice: "Prioritizing a strict, uninterrupted sleep schedule of 7-8 hours is an absolute medical necessity, not a luxury. Hydration is vital.", color: "#c85a73" },
-  { area: "Throat, Neck & Chest", risk: 72, trigger: "Suppressed communication, unexpressed anger, or feelings of being silenced manifest physically as chronic sore throats, stiff necks, and chest tightness.", advice: "Regular, healthy vocal expression is required. Ergonomic workspaces and avoiding intensely cold or damp environments will mitigate tension.", color: "#7a63a5" },
-  { area: "Digestive System", risk: 75, trigger: "Highly emotional periods, sudden anxiety, or subconscious fear immediately disrupt the digestive tract, leading to gastric distress and unpredictable water retention.", advice: "Structured diet focused on warm, easily digestible foods. Strict avoidance of emotional binge-eating or fast food during high-stress professional periods.", color: "#c76743" },
-  { area: "Cardiovascular", risk: 65, trigger: "The combination of a highly demanding career, a strict internal disciplinary code, and repressed domestic tension steadily elevates blood pressure.", advice: "Routine cardiovascular monitoring. Integration of forced relaxation routines, breathwork, and minimizing salt/stimulant intake during high-pressure phases.", color: "#d4a339" },
-  { area: "Immune System", risk: 58, trigger: "During specific transitional life phases, prone to sudden, difficult-to-diagnose contagious diseases or fevers if physical boundaries weaken.", advice: "Maintaining strict hygienic boundaries, utilizing natural preventative therapies (like Ayurveda), and avoiding extreme physical exhaustion.", color: "#248b7b" },
-  { area: "Overall Stamina", risk: 15, trigger: "Naturally robust — the strong physical frame provides immense baseline stamina.", advice: "Capable of enduring long hours of work, stress, and physical exertion that would easily exhaust an average person.", color: "#3a7ab5" },
+  { area: "Skin & Sleep", risk: 78, trigger: "When you don't sleep enough and work too hard, your skin breaks out and you feel completely exhausted.", advice: "You MUST sleep 7 to 8 hours every night. It is not an option, it is a rule. Drink lots of water.", color: "#c85a73" },
+  { area: "Throat & Neck", risk: 72, trigger: "When you hold back your anger and don't say what you want to say, your throat and neck start hurting.", advice: "Say what you feel! Also, sit comfortably at work and stay away from places that are too cold.", color: "#7a63a5" },
+  { area: "Stomach", risk: 75, trigger: "When you are scared or stressed, your stomach hurts right away. You might also gain water weight.", advice: "Eat warm, simple food. Don't eat fast food or eat too much when you are upset.", color: "#c76743" },
+  { area: "Heart & Blood", risk: 65, trigger: "Working too much and being too hard on yourself at home can make your blood pressure go up.", advice: "Go to the doctor for checkups. Learn to take deep breaths, relax, and eat less salt.", color: "#d4a339" },
+  { area: "Getting Sick", risk: 58, trigger: "If you work until you are totally tired, you might catch a cold or fever easily.", advice: "Wash your hands, take vitamins, and don't work until you drop.", color: "#248b7b" },
+  { area: "Body Strength", risk: 15, trigger: "You naturally have a very strong body.", advice: "You can work longer and harder than most normal people without getting tired.", color: "#3a7ab5" },
 ];
 
 // ===== COMMUNICATION MATRIX =====
 export const communicationData = {
   modes: [
-    { mode: "Social/Professional", score: 95, desc: "Mesmerizing, charismatic, persuasive. Uses a sweet, pleasing tone that draws people in effortlessly. Avoids force in favor of charm.", color: "#248b7b" },
-    { mode: "Intimate/Stressed", score: 35, desc: "Radical shift. Drops all diplomacy to become blunt, direct, and unapologetic. This unfiltered state is the primary source of family friction.", color: "#c85a73" },
-    { mode: "Negotiation", score: 92, desc: "Fierce directness ensures they are never taken advantage of. Every word carries immense weight and authority.", color: "#d4a339" },
-    { mode: "Elite Networking", score: 90, desc: "Naturally drawn to wealthy, influential circles. Highly generous dealings earn them a pristine, noble reputation.", color: "#7a63a5" },
+    { mode: "Friendly & Charming", score: 95, desc: "At work and with friends, you are sweet and charming. You easily make people like you.", color: "#248b7b" },
+    { mode: "Blunt & Angry", score: 35, desc: "When you are mad or at home, you drop the act. You speak the harsh truth, which causes fights.", color: "#c85a73" },
+    { mode: "Business Deals", score: 92, desc: "You speak with power. People listen to you and don't dare cheat you.", color: "#d4a339" },
+    { mode: "Important People", score: 90, desc: "You know how to talk to rich and powerful people perfectly.", color: "#7a63a5" },
   ],
   duality: {
     magnetism: 95,
@@ -83,32 +83,32 @@ export const communicationData = {
 
 // ===== RELATIONSHIP PROFILE =====
 export const relationshipProfile = {
-  romance: { label: "Romance Style", value: "Cautious but deeply sensual. Seeks profound soulmate connection over fleeting superficial encounters.", score: 88 },
-  partnerSelection: { label: "Partner Selection", value: "Judges entirely on character, intellect, and internal resilience rather than mere physical appearance.", score: 95 },
-  commitment: { label: "Commitment Depth", value: "Once committed, offers an absolute, unbreakable, and fiercely protective bond built on pure honesty.", score: 93 },
-  friction: { label: "Friction Source", value: "High stubbornness and the tendency to bring intense professional stress and aggression into the home.", score: 72 },
-  stability: { label: "Stability Desire", value: "Deeply craves long-lasting, harmonious love. Has a profound, deep-seated dislike for sudden relationship changes.", score: 96 },
-  communication: { label: "Home Communication", value: "Can feel like a roller-coaster. Rapidly shifts from incredibly warm to sharply blunt if challenged.", score: 60 },
+  romance: { label: "Love Style", value: "You take your time in love. You want a best friend for life, not a quick date.", score: 88 },
+  partnerSelection: { label: "Choosing a Partner", value: "You care if someone is smart and good inside, not just if they look pretty.", score: 95 },
+  commitment: { label: "Loyalty", value: "Once you promise to love someone, you protect them forever and are very honest.", score: 93 },
+  friction: { label: "Fights", value: "Fights happen because you can be stubborn and you bring your work anger home.", score: 72 },
+  stability: { label: "Needing Peace", value: "You really want a peaceful home. You hate sudden changes in your love life.", score: 96 },
+  communication: { label: "Talking at Home", value: "Sometimes you are super sweet, and other times you are too blunt and hurt feelings.", score: 60 },
 };
 
 // ===== DOMESTIC & PROPERTY =====
 export const domesticData = {
   maternalInfluence: {
-    advantage: { label: "Discipline Installed", score: 95, desc: "The strict maternal figure instilled an unshakeable sense of discipline, strategic planning, and the ability to delay gratification from a very young age. This is the root of massive professional competence." },
-    cost: { label: "Emotional Suppression", score: 78, desc: "The harsh, manager-like early environment created a profound sense of emotional suppression. Causes the individual to over-rationalize and intellectualize emotions instead of simply feeling raw vulnerability." },
+    advantage: { label: "Learned Good Habits", score: 95, desc: "Your mother was strict. She taught you how to follow rules, plan ahead, and work hard. This is why you are so good at your job today." },
+    cost: { label: "Hiding Feelings", score: 78, desc: "Because your home was strict, you learned to hide your feelings. You think too much instead of just letting yourself be sad or happy." },
   },
   paternalDynamic: {
     distance: 72,
-    desc: "Characterized by a sense of distance, fundamental philosophical disagreements, or dissatisfaction. The individual often eventually takes over responsibilities, shifting the power dynamic entirely."
+    desc: "You might feel a little far away from your father. Often, you step up and take care of things instead of him."
   },
   propertyDestiny: {
     ownership: 94,
     aesthetics: 91,
-    desc: "Architecturally destined to own significant physical assets: large homes, land, and multiple conveyances. Property is viewed not just financially, but as a vital psychological anchor proving success."
+    desc: "You are meant to own big houses, land, and nice cars. Owning these things makes you feel safe and happy."
   },
   domesticFriction: {
     score: 68,
-    desc: "Despite acquiring beautiful domestic sanctuaries, achieving true internal peace within the home is a constant challenge due to rigid personal expectations and communication shifts."
+    desc: "Even though your house is beautiful, you sometimes find it hard to feel relaxed and happy inside because of arguments."
   },
 };
 
@@ -116,10 +116,10 @@ export const domesticData = {
 export const progenyData = {
   challengeLevel: 78,
   areas: [
-    { phase: "Conception & Planning", difficulty: 75, desc: "Potential distinct difficulties, delays, or medical complications. Requires meticulous medical planning, precise timing, and absolute stress reduction.", icon: "🏥" },
-    { phase: "Parent-Child Dynamics", difficulty: 80, desc: "Intensely transformative and highly demanding. The individual may become overly anxious or overly protective regarding the child's future.", icon: "🔄" },
-    { phase: "Children's Education", difficulty: 70, desc: "Children themselves may exhibit intense stubbornness, struggle with conventional focus, and require a highly specialized, patient approach to upbringing.", icon: "📚" },
-    { phase: "Ultimate Resolution", difficulty: 30, desc: "This friction is ultimately a mechanism for the individual's profound personal growth. Learning to release control teaches immense patience and brings spiritual liberation.", icon: "🌟" },
+    { phase: "Having Kids", difficulty: 75, desc: "It might take time or extra care to have kids. You need to plan well and not stress out.", icon: "🏥" },
+    { phase: "Raising Kids", difficulty: 80, desc: "Being a parent will be hard work. You might worry too much about their future.", icon: "🔄" },
+    { phase: "Kids Learning", difficulty: 70, desc: "Your kids might be stubborn just like you! You will need to be very patient with them.", icon: "📚" },
+    { phase: "The Good Part", difficulty: 30, desc: "Raising kids will teach you how to be patient and how to stop trying to control everything. It makes you a better person.", icon: "🌟" },
   ],
 };
 
@@ -129,100 +129,100 @@ export const siblingData = {
   distance: 72,
   rivalry: 65,
   bond: 90,
-  desc: "A highly dynamic and paradoxical relationship. There is a profound sense of duty, protectiveness, and willingness to carry heavy financial burdens for siblings. Simultaneously, there is a recurring undercurrent of rivalry, resentment, and emotional distance. The bond is unbreakable, punctuated by intense closeness during crises, but requires constant, conscious effort to maintain daily harmony."
+  desc: "You have a tricky relationship with your brothers or sisters. You love them and will always pay for things to help them. But sometimes, you feel far apart or argue with them. Even with the fights, your bond is very strong when times get tough."
 };
 
 // ===== WEALTH STRATEGY =====
 export const wealthData = {
   mechanics: [
-    { factor: "Intellect-Driven Earning", score: 95, desc: "Wealth is not reliant on luck. It is a direct byproduct of sharp intellect, relentless determination, and an aggressive, self-directed approach." },
-    { factor: "Negotiation Power", score: 93, desc: "Possesses a specific capability multiplier: the ability to articulate value. Can command premium compensation purely through presentation." },
-    { factor: "Multiple Income Streams", score: 88, desc: "A primal drive to amass assets pushes them to create multiple, simultaneous streams of income through expanding professional networks." },
-    { factor: "Tangible Asset Accumulation", score: 92, desc: "Designed to accumulate massive financial resources slowly and solidly through concrete, tangible assets, joint ventures, and traditional businesses." },
+    { factor: "Using Your Brain", score: 95, desc: "You don't get rich by luck. You get rich because you are smart, determined, and you go after what you want." },
+    { factor: "Talking for Money", score: 93, desc: "You know how to ask for the right price. When you speak, people want to pay you more." },
+    { factor: "Many Ways to Earn", score: 88, desc: "You like to make money from many different places at the same time." },
+    { factor: "Owning Real Things", score: 92, desc: "You build wealth by buying real things like houses and businesses, not by gambling." },
   ],
   risks: [
-    { risk: "Luxury Expenditure", level: 78, desc: "A powerful inclination toward lavish lifestyles, fine dining, and aesthetics. Expenses can match or exceed income without strict budgeting." },
-    { risk: "Speculative Temptation", level: 85, desc: "CRITICAL DANGER: High-risk financial ventures, stock market speculation, or get-rich-quick channels will inevitably lead to sudden, severe losses." },
-    { risk: "Domestic Spending", level: 65, desc: "Tendency to spend massive amounts of money continuously improving the home environment or domesticating animals." },
+    { risk: "Spending on Nice Things", level: 78, desc: "You love eating at nice places and buying pretty things. If you aren't careful, you can spend too much." },
+    { risk: "Gambling or Stocks", level: 85, desc: "WARNING: Do not gamble. Do not put money in risky stocks. If you try to get rich fast, you will lose a lot of money." },
+    { risk: "Spending on the House", level: 65, desc: "You tend to spend a lot of money making your home look nice or buying pets." },
   ],
 };
 
 // ===== FINANCIAL PROJECTION =====
 export const financialProjection = [
-  { period: "Pre-2021", label: "Early Foundation", level: 40, desc: "Building blocks — early career establishment" },
-  { period: "2021-2025", label: "Golden Window ★", level: 75, desc: "Expansion, prosperity, investments yielding heavy returns" },
-  { period: "2025-2026", label: "Discipline Phase", level: 55, desc: "Demanding period — progress feels slow, heavy duties" },
-  { period: "2026-2028", label: "Breakthrough", level: 82, desc: "Intellectual acceleration and commercial success" },
-  { period: "2028-2029", label: "Review Phase", level: 60, desc: "Spiritual detachment and introspective review" },
-  { period: "2029-2030", label: "Luxury Era", level: 88, desc: "Romance, wealth surge, aesthetic fulfillment" },
-  { period: "2030-2031", label: "Authority Peak", level: 90, desc: "Full power, public recognition, vitality surge" },
-  { period: "2031-2038", label: "Action Phase", level: 85, desc: "Intense energy, aggressive ambition, bold execution" },
+  { period: "Before 2021", label: "Starting Out", level: 40, desc: "Just beginning to learn and work." },
+  { period: "2021-2025", label: "Lucky Time ★", level: 75, desc: "Things go really well. You make good money." },
+  { period: "2025-2026", label: "Hard Work", level: 55, desc: "Feels like moving slow. Lots of heavy work." },
+  { period: "2026-2028", label: "Big Win", level: 82, desc: "You get smarter and make great deals." },
+  { period: "2028-2029", label: "Taking a Break", level: 60, desc: "You step back to think and relax." },
+  { period: "2029-2030", label: "Happy & Rich", level: 88, desc: "Lots of money, love, and nice things." },
+  { period: "2030-2031", label: "The Boss", level: 90, desc: "Everyone respects you. You are at the top." },
+  { period: "2031-2038", label: "Action Time", level: 85, desc: "Lots of energy to do big, brave things." },
 ];
 
 // ===== PREDICTIVE TIMELINE =====
 export const timelineData = [
   {
     period: "Jan 2024 – May 2025",
-    label: "The Golden Window",
+    label: "The Golden Time",
     status: "current",
     color: "#d4a339",
     emoji: "✨",
-    theme: "Expansion, Wisdom, Financial Stabilization",
-    detail: "A pristine window of prosperity and wisdom. Financial stability increases significantly as previous investments begin to yield heavy returns. The individual may naturally assume a highly respected teaching, mentoring, or advisory role. Family relations improve, accompanied by a strong, comforting inclination toward spiritual studies. This is a highly favorable time for long-term investments and solidifying ultimate professional authority."
+    theme: "Growing, Learning, More Money",
+    detail: "This is a great time! You will make more money from things you started before. People will ask you for advice like you are a teacher. Your family will be happy, and you will want to learn about peaceful things. It's a great time to save money."
   },
   {
     period: "May 2025 – Dec 2026",
-    label: "The Crucible of Discipline",
+    label: "The Hard Test",
     status: "active",
     color: "#7a63a5",
     emoji: "⚒️",
-    theme: "Discipline, Delay, Heavy Duty",
-    detail: "A highly demanding phase requiring immense discipline, patience, and physical endurance. Progress in career or personal goals may suddenly feel agonizingly slow or blocked. Heavy responsibilities regarding the home, real estate, or the mother's health will demand urgent attention. This is absolutely not a time to initiate high-risk ventures. The ultimate strategy: put your head down, work tirelessly, maintain strict routines, and actively combat emotional isolation."
+    theme: "Following Rules, Waiting, Hard Jobs",
+    detail: "This time will be hard. You will need to be very patient. Things will feel slow. You will have a lot to do for your house or taking care of your mom. Do NOT take any big risks with your money right now. Just keep your head down, do your chores, and get enough sleep."
   },
   {
     period: "Dec 2026 – May 2028",
-    label: "Intellectual Acceleration",
+    label: "Fast Brain",
     status: "upcoming",
     color: "#248b7b",
     emoji: "🚀",
-    theme: "Networking, Commercial Breakthrough",
-    detail: "The heavy, restrictive atmosphere of the previous period dramatically lifts, replaced by a rapid surge of intellectual growth, networking, and commercial success. Excellent for writing, public speaking, publishing, and closing highly complex financial deals. A return of mental agility and charm. Warning: the nervous system may become severely overstimulated, resulting in minor health issues if adequate rest is neglected."
+    theme: "Making Friends, Winning in Business",
+    detail: "The heavy feeling goes away! Suddenly, your brain is super fast. You will meet new people, give good speeches, and make great money deals. You will be very charming again. Just be careful not to tire out your brain—remember to rest."
   },
   {
     period: "May 2028 – Dec 2028",
-    label: "Spiritual Detachment",
+    label: "Letting Go",
     status: "upcoming",
     color: "#c85a73",
     emoji: "🧘",
-    theme: "Review, Letting Go, Sudden Shifts",
-    detail: "A brief but incredibly intense phase of profound introspection and detachment. The individual may suddenly feel a complete lack of interest in their usual material pursuits. It is a designated time for deep review, voluntarily letting go of toxic relationships, and focusing purely on internal peace. Sudden, unexpected, but ultimately necessary shifts in career direction or living situations may occur."
+    theme: "Thinking, Relaxing, Sudden Changes",
+    detail: "For a short time, you will want to be alone and think. You won't care as much about money. It's a time to let go of bad friends and find peace. Your job or your house might change suddenly, but it's for the best."
   },
   {
     period: "Dec 2028 – Aug 2030",
-    label: "Romantic Renewal & Luxury",
+    label: "Love & Fun",
     status: "upcoming",
     color: "#d37a54",
     emoji: "👑",
-    theme: "Romance, Beauty, Aesthetic Fulfillment",
-    detail: "A highly favorable, joyful conclusion to the decade's struggles. This period brings a massive, welcome surge of romance, luxury, creativity, and marital harmony. The individual will actively seek out beauty and comfort, finally enjoying the tangible, beautiful fruits of their hard labor. Wealth accumulation is exceedingly strong, social status is significantly elevated, and physical charisma is at an all-time peak."
+    theme: "Romance, Pretty Things, Happiness",
+    detail: "This is a very happy time! You will have lots of love, fun, and nice things. You will finally enjoy all the hard work you did. You will make lots of money, people will look up to you, and you will feel and look amazing."
   },
   {
     period: "Aug 2030 – Feb 2031",
-    label: "Authority & Recognition",
+    label: "Being the Leader",
     status: "upcoming",
     color: "#b58d55",
     emoji: "☀️",
-    theme: "Confidence, Public Recognition, Vitality",
-    detail: "The final phase of the decade brings an unstoppable surge of confidence, ego-strengthening, and massive public recognition. The individual decisively ends all emotionally draining situations and steps fully into their absolute power. Major improvements in personal health, vitality, finances, and government/corporate status are virtually guaranteed."
+    theme: "Feeling Brave, People Clapping for You",
+    detail: "You will feel super brave and strong. You will say goodbye to anything that makes you sad. You will step up and be the boss. Your health, your money, and how people see you will all get so much better."
   },
   {
     period: "Feb 2031 – Feb 2038",
-    label: "The Action Decade",
+    label: "The Big Move",
     status: "future",
     color: "#c76743",
     emoji: "⚡",
-    theme: "Physical Energy, Aggressive Ambition, Bold Plans",
-    detail: "Entering a massive 7-year cycle defined by intense physical energy, aggressive ambition, rapid changes, and high-stakes action. This period will be packed with short trips, a deep desire to conquer new territories, and a massive, undeniable increase in courage. It is the designated period to execute bold, world-changing plans, provided the individual strictly controls their temper."
+    theme: "Lots of Energy, Big Goals",
+    detail: "You will enter a long time of having super high energy. You will want to do big things and take trips. You will be brave enough to try brand new things. Just make sure you don't get angry too easily."
   },
 ];
 
@@ -230,23 +230,23 @@ export const timelineData = [
 export const overarchingPhases = [
   {
     period: "Feb 2021 – Feb 2031",
-    label: "The Emotional Decade",
+    label: "The Feelings Decade",
     themes: [
-      "Career Pivot: Professional focus shifts heavily toward roles involving public dealing, creativity, communication, nurturing, and managing real estate.",
-      "Psychological Intensity: Emotions become significantly louder. Rely far more on 'gut feelings' and intuition than cold logic. Heightened empathy, but increased vulnerability.",
-      "Geographic Relocation: Elevated probability of moving far from current residence, traveling extensively, or establishing lucrative foreign connections.",
-      "Health & Wellness: Highly sensitive to environment. Must actively manage stress-induced digestion issues and hormonal fluctuations."
+      "Work changes: You will do jobs where you talk to people, create things, and deal with houses.",
+      "Feelings: Your feelings are very strong. You trust your 'gut feeling' more than your brain.",
+      "Moving: You might move far away from home or travel a lot.",
+      "Health: Your stomach gets upset when you are worried. You need to relax."
     ],
     status: "active",
   },
   {
     period: "Feb 2031 – Feb 2038",
-    label: "The Warrior Phase",
+    label: "The Brave Fighter",
     themes: [
-      "Intense physical energy and a massive resurgence of aggressive, unstoppable ambition.",
-      "Frequent short trips and a deep-seated desire to conquer completely new professional territories.",
-      "A massive increase in raw courage and the execution of highly bold, long-term plans.",
-      "Requires strict, constant monitoring of temper and a conscious limitation of financial extravagance."
+      "You will have so much energy and want to achieve big things.",
+      "You will take short trips and want to start new jobs.",
+      "You will be very brave and make huge plans.",
+      "You have to make sure you don't get too angry or spend too much money."
     ],
     status: "upcoming",
   },
@@ -256,122 +256,122 @@ export const overarchingPhases = [
 export const sadeSatiData = {
   startDate: "May 30, 2032",
   phases: [
-    { phase: "Rising Phase", period: "May 2032 – Jul 2034", focus: "Targets hidden fears, massive expenditures, and foreign connections.", risk: "Elevated risk of sudden financial losses, sleep disruption, anxiety, or minor accidents.", strategy: "Rein in all impulsive actions immediately, avoid major risky investments, prepare for professional pressure.", intensity: 70 },
-    { phase: "Peak Pressure", period: "Mid-2030s", focus: "Tests the absolute core of the physical body and career foundations.", risk: "Demands unimaginable hard work, testing the ethical and structural foundation of the entire life.", strategy: "Maintain pristine financial liquidity, ensure meticulous care of physical health (bones, joints), practice deep humility.", intensity: 90 },
-    { phase: "Resolution", period: "Late 2030s", focus: "Rebuilding the life structure on a much stronger, indestructible foundation.", risk: "Minimal risk if previous phases were handled ethically and diligently.", strategy: "Receive massive, permanent elevations in status, profound wealth, and unshakeable community respect.", intensity: 40 },
+    { phase: "The Start", period: "May 2032 – Jul 2034", focus: "Tests your fears and your money.", risk: "You might lose money, sleep poorly, or get small scratches.", strategy: "Don't do anything crazy. Save your money and be ready to work hard.", intensity: 70 },
+    { phase: "The Hardest Part", period: "Mid-2030s", focus: "Tests your body and your job.", risk: "You will have to work harder than ever before.", strategy: "Keep your money safe, take care of your body (like your bones), and be kind and humble.", intensity: 90 },
+    { phase: "The Reward", period: "Late 2030s", focus: "Building a better, stronger life.", risk: "No risk if you were good and worked hard before.", strategy: "You will get a lot of respect, a lot of money, and be a big boss.", intensity: 40 },
   ],
-  survivalStrategy: "This is an inescapable audit, not a curse. Because the individual possesses a highly structured baseline, they are perfectly equipped to endure. The absolute key is extreme, unwavering discipline: maintaining pristine financial liquidity, completely avoiding unethical shortcuts, taking meticulous care of physical health, and practicing deep humility. Doing so guarantees massive, permanent elevation."
+  survivalStrategy: "This is a test from life, not a curse. Because you are smart and hard-working, you will pass! The trick is: follow the rules. Save your money, don't cheat, eat healthy, and stay humble. If you do this, you will win big time."
 };
 
 // ===== REMEDIES =====
 export const remedyData = [
   {
-    name: "Diamond / White Sapphire",
-    subtitle: "Primary Identity Anchor",
+    name: "Diamond / White Stone",
+    subtitle: "For Body Strength",
     icon: "💎",
-    category: "Mineral Catalyst",
-    benefits: "Projects intense charisma, significantly improves overall physical health and vitality, neutralizes internal negativity, and ensures decisive victory in highly competitive environments. Acts as an impenetrable shield for the physical body.",
-    protocol: "Set meticulously in gold or silver. Worn exclusively on the middle finger."
+    category: "Helpful Stones",
+    benefits: "Makes you look amazing and keeps your body very healthy. It stops bad thoughts and helps you win when you are competing with others.",
+    protocol: "Wear it in gold or silver on your middle finger."
   },
   {
-    name: "Emerald",
-    subtitle: "Wealth & Communication Multiplier",
+    name: "Emerald (Green Stone)",
+    subtitle: "For Money & Talking",
     icon: "💚",
-    category: "Mineral Catalyst",
-    benefits: "Targets the business intellect directly. Sharpens rapid decision-making, optimizes the occasionally blunt communication style into highly persuasive diplomacy, boosts creativity, and attracts consistent, highly lucrative financial growth.",
-    protocol: "Set meticulously in gold. Worn exclusively on the little or ring finger."
+    category: "Helpful Stones",
+    benefits: "Helps your brain think fast for business. It makes you speak nicely so people like you, and it brings in a lot of money.",
+    protocol: "Wear it in gold on your little finger or ring finger."
   },
   {
     name: "Blue Sapphire",
-    subtitle: "Discipline & Career Optimizer",
+    subtitle: "For Rules & Career",
     icon: "💙",
-    category: "Mineral Catalyst",
-    benefits: "A highly potent, heavy tool that enforces strict discipline, deeply grounds the individual's erratic energy, and accelerates massive, long-term career development and iron-clad wealth retention.",
-    protocol: "CRUCIAL CAVEAT: Must be tested (kept under pillow) for 3 consecutive days before permanent use to ensure it aligns perfectly with the physical constitution without causing exhaustion or obstacles."
+    category: "Helpful Stones",
+    benefits: "This is a heavy stone that makes you follow the rules. It helps your job grow huge and helps you keep your money safe.",
+    protocol: "WARNING: Put it under your pillow for 3 nights first. If you sleep well, you can wear it. If you have bad dreams, don't wear it."
   },
   {
-    name: "15-Face Botanical Bead",
-    subtitle: "The Emotional Healer",
+    name: "15-Face Bead",
+    subtitle: "For Happy Feelings",
     icon: "📿",
-    category: "Neurological Regulator",
-    benefits: "Absolutely essential for processing deep-seated emotional isolation, grief, or maternal trauma. Directly impacts the cardiovascular system, drastically lowering chronic stress and fostering genuine empathy, allowing the individual to experience true internal peace.",
-    protocol: "String in gold, silver, or copper wire. Wear on a Monday after appropriate cleansing. Strict avoidance of alcohol and non-vegetarian food while wearing."
+    category: "Special Beads",
+    benefits: "If you feel sad or alone, this bead helps fix your heart. It lowers your stress and helps you feel real peace.",
+    protocol: "Wear it on a Monday. Don't drink alcohol or eat meat while wearing it."
   },
   {
-    name: "19-Face Botanical Bead",
-    subtitle: "Wealth & Clarity Stabilizer",
+    name: "19-Face Bead",
+    subtitle: "For Big Bosses",
     icon: "🌟",
-    category: "Neurological Regulator",
-    benefits: "A rare, advanced tool for leaders. Ensures massive drive for wealth doesn't corrupt ethics or cause neurological burnout. Provides razor-sharp business clarity and acts as a profound psychological shield against negative thoughts, jealousy, and betrayal.",
-    protocol: "Best worn on a Monday morning on a white silk or wool thread. Due to intense power, must be removed before sleeping and kept away from chemicals."
+    category: "Special Beads",
+    benefits: "This is for leaders. It helps you make money but keeps you a good person. It protects you from jealous people.",
+    protocol: "Wear it Monday morning. Take it off before sleeping."
   },
 ];
 
 // ===== BEHAVIORAL INTERVENTIONS =====
 export const behavioralData = [
-  { title: "Strict Financial Discipline", icon: "💰", desc: "The individual must actively, ruthlessly suppress the urge to engage in speculative investments, day-trading, or high-risk financial gambles. Wealth must only be pursued through structured, tangible, and highly ethical means. Diversification of stable income streams is completely mandatory." },
-  { title: "Parenting Paradigm Shift", icon: "👶", desc: "The individual must consciously release the overwhelming need to micro-manage their children's destinies. They must view the inevitable challenges, delays, or unconventional behaviors of their children not as personal failures, but as profound psychological lessons designed to teach absolute patience." },
-  { title: "Routine Grounding & Service", icon: "🧘", desc: "To actively combat the intense internal anxiety and mental overstimulation generated by massive ambition, the individual must engage in regular acts of selfless service (such as donating food on Saturdays) and maintain a daily practice of meditative breathwork." },
-  { title: "Environmental Cues", icon: "🦚", desc: "Incorporating simple environmental shifts, such as keeping a peacock feather in books or the workspace, acts as a powerful subconscious psychological trigger to maintain focus, completely ward off negative thought spirals, and invite positive energy." },
+  { title: "Save Your Money", icon: "💰", desc: "Do not gamble. Do not buy risky things hoping to get rich quick. You must earn your money the smart, slow way." },
+  { title: "Be Patient with Kids", icon: "👶", desc: "Don't try to control everything your children do. When they act up, take a deep breath. It is a lesson for you to be patient." },
+  { title: "Relax & Help Others", icon: "🧘", desc: "Your brain works too fast sometimes. To calm down, give food to people who need it on Saturdays, and take deep breaths every day." },
+  { title: "Peacock Feathers", icon: "🦚", desc: "Keep a peacock feather in your books or on your desk. It looks pretty and helps keep bad thoughts away." },
 ];
 
 // ===== CORE PSYCHOLOGY DICHOTOMY =====
 export const psychologyDichotomy = {
   internal: {
-    label: "Internal Reality",
+    label: "How You Feel Inside",
     traits: [
-      { name: "Deep Introversion", score: 85, desc: "Deeply prefers creating their own private, highly curated sanctuary filled with specific luxuries." },
-      { name: "Emotional Vault", score: 90, desc: "Maintains an absolute vault of personal secrets. Processes all emotional pain and conflict entirely alone." },
-      { name: "Vulnerability Shield", score: 88, desc: "Will rarely, if ever, reveal the true entirety of their thoughts or deep sorrows to anyone." },
-      { name: "Internal Crucibles", score: 92, desc: "Has already survived profound emotional isolation. Their current power is entirely self-generated." },
+      { name: "Liking Quiet Time", score: 85, desc: "You really love having your own quiet, beautiful space." },
+      { name: "Keeping Secrets", score: 90, desc: "You don't tell people your deep secrets. You handle your sadness by yourself." },
+      { name: "Hiding Your Heart", score: 88, desc: "You almost never let anyone see when you are truly hurt or sad." },
+      { name: "Being Super Tough", score: 92, desc: "You have been through a lot, so now nothing easily scares you." },
     ]
   },
   external: {
-    label: "External Persona",
+    label: "How People See You",
     traits: [
-      { name: "High-Functioning Charisma", score: 91, desc: "Projects a robust humor and charm. Widely perceived as engaging, friendly, and fun-loving." },
-      { name: "Leadership Magnetism", score: 93, desc: "Constantly and relentlessly pulled into high-level leadership roles and public communication." },
-      { name: "Social Adaptability", score: 87, desc: "Maintains a carefully managed social interface that effortlessly draws lucrative professional opportunities." },
-      { name: "Commanding Presence", score: 94, desc: "Projects unquestionable competence, unbreakable strength, and deep understanding of human dynamics." },
+      { name: "Super Friendly", score: 91, desc: "People think you are very funny, nice, and easy to talk to." },
+      { name: "Born Leader", score: 93, desc: "People always want you to be the boss or the one talking for the group." },
+      { name: "Making Friends Easily", score: 87, desc: "You know exactly how to act to make people like you and give you good jobs." },
+      { name: "Looking Strong", score: 94, desc: "You look like someone who knows exactly what they are doing. People trust you." },
     ]
   }
 };
 
 // ===== ELEMENT DISTRIBUTION =====
 export const elementDistribution = {
-  earth: { pct: 45, desc: "Grounding, extreme pragmatism, tangible outcomes, and an affinity for heavy physical assets." },
-  water: { pct: 28, desc: "Deep emotional intelligence, profound empathy, and fluid, intuitive processing." },
-  fire: { pct: 17, desc: "Fierce ambition, intense leadership drive, and unstoppable competitive energy." },
-  air: { pct: 10, desc: "Strategic communication, networking agility, and intellectual maneuverability." },
+  earth: { pct: 45, desc: "Down-to-earth, sensible, likes real things like houses and money." },
+  water: { pct: 28, desc: "Feels deeply, understands others, and cares about emotions." },
+  fire: { pct: 17, desc: "Wants to win, wants to be the boss, has lots of energy." },
+  air: { pct: 10, desc: "Smart talker, thinks fast, makes friends easily." },
 };
 
 // ===== LEADERSHIP PROFILE =====
 export const leadershipData = {
-  style: "Silent Observer → Decisive Commander",
+  style: "Quiet Watcher → Strong Boss",
   traits: [
-    { name: "Absolute Competence", score: 96 },
-    { name: "Unbreakable Resilience", score: 94 },
-    { name: "Human Dynamics Mastery", score: 91 },
-    { name: "Raw Courage", score: 93 },
-    { name: "Fierce Independence", score: 95 },
-    { name: "Unyielding Ethics", score: 89 },
+    { name: "Super Smart", score: 96 },
+    { name: "Never Gives Up", score: 94 },
+    { name: "Understands People", score: 91 },
+    { name: "Very Brave", score: 93 },
+    { name: "Does it Alone", score: 95 },
+    { name: "Plays by the Rules", score: 89 },
   ],
   weaknesses: [
-    { name: "Stubbornness", level: 82, desc: "Can be exceptionally stubborn and hot-headed when others attempt to dictate their actions or interfere with their vision." },
-    { name: "Rebellion", level: 75, desc: "If placed in a subordinate position under incompetent leadership, will rapidly become rebellious and seek complete autonomy." },
+    { name: "Stubborn", level: 82, desc: "You get really mad when people try to tell you what to do." },
+    { name: "Breaking Rules", level: 75, desc: "If your boss is not smart, you will ignore them and do your own thing." },
   ]
 };
 
 // ===== SOCIAL VIGILANCE =====
 export const socialVigilance = {
   strengths: [
-    { name: "Elite Association", score: 90, desc: "Possesses a distinct, natural ability to associate seamlessly with wealthy, influential, and elite individuals." },
-    { name: "Generous Reputation", score: 88, desc: "Highly liberal and generous in social dealings, earning a widespread reputation as a reliable and noble associate." },
-    { name: "Network Leverage", score: 85, desc: "Extremely capable of utilizing high-status networks strategically to advance their own ambitious goals." },
+    { name: "Hanging with the Best", score: 90, desc: "You easily fit in with rich and important people." },
+    { name: "Being Generous", score: 88, desc: "You share with your friends, so people think you are very kind." },
+    { name: "Using Connections", score: 85, desc: "You know how to ask your important friends for help when you need it." },
   ],
   risks: [
-    { name: "Secret Enemies", level: 78, desc: "Faces a persistent, significant risk of sudden backstabbing and betrayal from individuals they considered close friends." },
-    { name: "Jealousy Attraction", level: 72, desc: "Their undeniable success combined with occasional bluntness breeds intense jealousy within their periphery." },
-    { name: "Distraction Friends", level: 65, desc: "Highly prone to making friends who harbor malicious intent or actively attempt to distract them from primary ambitions." },
+    { name: "Fake Friends", level: 78, desc: "Watch out! Some people who pretend to be your friend might try to hurt you." },
+    { name: "Jealous People", level: 72, desc: "Because you are so awesome, some people get very jealous of you." },
+    { name: "Bad Crowds", level: 65, desc: "Sometimes you might hang out with people who distract you from your big goals." },
   ],
 };
